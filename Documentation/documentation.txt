@@ -1,0 +1,30 @@
+Documentation
+
+20th July 2024
+- Held the first team meeting to resolve issues with GitHub.
+- Learned how to create branches and pull requests.
+- Gained an overview of the dataset and became familiar with its variables.
+
+27th July 2024
+- Divided the datasets among team members for exploratory data analysis (EDA).
+- Each member was assigned a dataset to analyze, with the goal of determining which dataset would be most suitable for model development.
+
+30th July 2024
+- Conducted the first client call.
+- Presented the EDA results for the "rejected_loan" dataset.
+- Discussed our progress, challenges, and problem-solving approaches with the client, Nopparat.
+- Received feedback and insights to optimize our workflow.
+
+3rd August 2024
+- Identified the "lending_club_two" dataset as the most appropriate for model building.
+- The dataset was selected due to its cleanliness, relevant variables, and readiness for analysis.
+
+7th August 2024
+- Prepared and delivered a presentation for the second client call.
+- Presented a comprehensive EDA of the "lending_club_two" dataset.
+- Received positive feedback, leading to the decision to start building the loan repayment prediction model.
+
+17th August 2024
+- Participated in the second hackathon focused on model development.
+- Began discussions on the final presentation structure, including content, design, and color palette for graphs.
+- Started planning the design elements of the final presentation.
