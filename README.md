@@ -12,7 +12,6 @@ and the application of various algorithms, we identified significant
 factors contributing to loan defaults. The project findings offer 
 valuable insights for financial institutions to improve their risk 
 assessment processes and reduce the likelihood of loan defaults. 
-Getting Started
 
 # Prerequisites 
 Python version – 3.12.3
@@ -26,7 +25,7 @@ Describe any prerequisites, libraries, OS version, etc., needed before installin
 ex. Windows 10
 
 # Installing
-The model is avaliable in our GitHub repository under Techlabs_DS04/lending-club-loan-defaulters-prediction.ipynb. 
+The model is available in our GitHub repository under Techlabs_DS04/lending-club-loan-defaulters-prediction.ipynb. 
 
 
 How/where to download your program
