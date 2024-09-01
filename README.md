@@ -28,6 +28,7 @@ home ownership status affect loan default rates.
 
 
 # Prerequisites 
+
 Python version – 3.12.3
  Packages:
 Pandas, Numpy, Seaborn, Scipy/Stats, Matplotlib.pyplot, Hvplot.pandas
@@ -35,39 +36,26 @@ Sklearn
 Xgboost 
 Tensorflow
 
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
 
-# Installing
-The model is available in our GitHub repository under Techlabs_DS04/lending-club-loan-defaulters-prediction.ipynb. 
+# Usage
+
+1. Clone the repository to your local machine: git clone https://
+github.com/H-Rehan/Techlabs_DS04.git
+2. Install the required Python libraries: pip install -r requirements.txt
+3. Explore the notebooks to understand loan default trends, identify
+critical predictors, and visualize correlations between variables.
 
 
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
+# Contributing
 
-# How to run the program
-Step-by-step bullets
-code blocks for commands
+Contributions are welcome! If you have suggestions for improvements or
+additional analyses, feel free to open an issue or submit a pull request.
 
-# Help
 
-Any advise for common problems or issues.
+# Acknowledgments
 
-command to run if program contains helper info
-Authors
-
-# Contributors 
-
-Hammam Rehan 
-
-Mohamad Nahle 
-
-Fiona Sauer 
-
-Jieun Choi 
-
-Arsen Vardanian
+Special thanks to the contributors who provided valuable insights and
+guidance throughout this project.
 
 
 
