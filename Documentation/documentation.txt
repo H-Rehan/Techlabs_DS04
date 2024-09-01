@@ -28,3 +28,20 @@ Documentation
 - Participated in the second hackathon focused on model development.
 - Began discussions on the final presentation structure, including content, design, and color palette for graphs.
 - Started planning the design elements of the final presentation.
+
+26th August 2024
+- Distribution of the final tasks
+- Mohamad and Hammam finalizing and checking the code
+- Arsen & Fiona prepare the final presentation
+- Jieun working on the blog post
+
+30th August 2024
+Update on the tasks
+Present the final results
+Feedback on the blog post
+Adding the results to the final presentation
+
+31th August 2024
+-finalizing the github repository
+-preparing the presentation
+-finalizing the projec
