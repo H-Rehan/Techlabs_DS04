@@ -15,15 +15,18 @@ contribute to loan defaults.
 
 # Key Features
 
-• Exploratory Data Analysis (EDA): Visualization of loan status
+Exploratory Data Analysis (EDA): Visualization of loan status
 distributions, correlation matrices, and feature relationships.
-• Predictive Modeling: Application of machine learning algorithms like
+
+Predictive Modeling: Application of machine learning algorithms like
 Linear Regression, Neural Networks, and Random Forest Classifier to
 predict loan default probabilities.
-• Feature Engineering: Identification of key factors such as loan grade,
+
+Feature Engineering: Identification of key factors such as loan grade,
 interest rate, and employment length that significantly influence default
 rates.
-• Visualization of Insights: Analysis of how employment length and
+
+Visualization of Insights: Analysis of how employment length and
 home ownership status affect loan default rates.
 
 
