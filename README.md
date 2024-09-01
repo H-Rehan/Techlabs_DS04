@@ -4,14 +4,14 @@ We created a model that predicts loan defaults to help lenders minimize their ri
 
 # Description
 
-This project addresses the challenge of predicting loan defaults 
-using Lending Club data. We employed data preprocessing, 
-exploratory data analysis (EDA), and machine learning models to 
-analyze and predict loan statuses. Through feature engineering 
-and the application of various algorithms, we identified significant 
-factors contributing to loan defaults. The project findings offer 
-valuable insights for financial institutions to improve their risk 
-assessment processes and reduce the likelihood of loan defaults. 
+This GitHub repository hosts a series of notebooks dedicated to analyzing
+and predicting loan defaults using data from Lending Club, a peer-to-peer
+lending platform. The project aims to provide financial institutions with
+insights that can improve their risk assessment processes, ultimately
+reducing the likelihood of loan defaults. By leveraging a combination of data
+preprocessing, exploratory data analysis (EDA), and machine learning
+models, the notebooks offer a comprehensive look into the factors that
+contribute to loan defaults.
 
 # Key Features
 
