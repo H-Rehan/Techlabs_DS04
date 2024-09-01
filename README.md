@@ -30,7 +30,7 @@ Visualization of Insights: Analysis of how employment length and
 home ownership status affect loan default rates.
 
 
-# Prerequisites 
+# Requirements 
 
 Python version – 3.12.3
  Packages:
