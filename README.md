@@ -1,4 +1,4 @@
-# Loan Lens
+# Loan Lens - Unveiling the Drivers behind Default
 
 We created a model that predicts loan defaults to help lenders minimize their risks. 
 
