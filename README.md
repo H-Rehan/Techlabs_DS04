@@ -13,6 +13,20 @@ factors contributing to loan defaults. The project findings offer
 valuable insights for financial institutions to improve their risk 
 assessment processes and reduce the likelihood of loan defaults. 
 
+# Key Features
+
+• Exploratory Data Analysis (EDA): Visualization of loan status
+distributions, correlation matrices, and feature relationships.
+• Predictive Modeling: Application of machine learning algorithms like
+Linear Regression, Neural Networks, and Random Forest Classifier to
+predict loan default probabilities.
+• Feature Engineering: Identification of key factors such as loan grade,
+interest rate, and employment length that significantly influence default
+rates.
+• Visualization of Insights: Analysis of how employment length and
+home ownership status affect loan default rates.
+
+
 # Prerequisites 
 Python version – 3.12.3
  Packages:
