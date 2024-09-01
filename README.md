@@ -46,10 +46,14 @@ Authors
 
 # Contributors 
 
-Hammam Rehan,
-Mohamad Nahle,
-Fiona Sauer, 
-Jieun Choi,
+Hammam Rehan 
+
+Mohamad Nahle 
+
+Fiona Sauer 
+
+Jieun Choi 
+
 Arsen Vardanian
 
 
